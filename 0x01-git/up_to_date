@@ -14,3 +14,4 @@ command  line
  ls
  cd ..
  mv
+ git pull
