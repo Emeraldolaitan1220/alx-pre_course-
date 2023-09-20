@@ -1,0 +1,16 @@
+command  line 
+ cd change of directory
+ pwd working directory
+ git push
+ git branch
+ git checkout
+ git commit -m
+ git add .
+ git clone
+ touch 
+ mkdir
+ rm -r
+ rm 
+ ls
+ cd ..
+ mv
